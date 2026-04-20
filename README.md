@@ -9,6 +9,7 @@ The goal is to compare how well both models fit the data, especially when the re
 
 📂 Dataset
 
+
 The dataset used is Position_Salaries, which contains:
 
 Position → Job title
@@ -17,7 +18,7 @@ Level → Job level (input feature)
 
 Salary → Salary (target variable)
 
-👉 We use:
+👉 USED:
 
 X (independent variable): Level
 y (dependent variable): Salary
